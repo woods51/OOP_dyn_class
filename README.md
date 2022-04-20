@@ -1,2 +1,3 @@
 # OOP_dyn_class
-Stephen Woods, Brendan Byrne, Dennis Gurban, Anushka Acharya Group Project
+Group Project
+By Stephen Woods, Brendan Byrne, Dennis Gurban, and Anushka Acharya
